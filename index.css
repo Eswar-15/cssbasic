@@ -1,21 +1,76 @@
 .o {
-  background-color: rgb(62, 22, 194);
- height: 300px;
- width: 100px;
-  position: sticky;
-  top: 20px;
-
-
-  left: 100px;
-  top: 100px;
-
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 20px;
 }
-.e {
-    background-color: rgb(187, 12, 41);
-  height: 150px;
-  width: 100px;
 
-    position: fixed;
-  
-  }
-
+.a{
+    width: 100px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    flex-basis: 25%;
+}
+.b{
+    width: 100px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    flex-basis: 25%;
+}
+.c{
+    width: 100px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    flex-basis: 25%;
+}
+.d{
+    width: 100px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    flex-basis: 25%;
+}
+.j{
+    width: 100px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    flex-basis: 25%;
+}
+.f{
+    width: 100px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    flex-basis: 25%;
+}
+.g{
+    width: 100px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    flex-basis: 25%;
+}
+.h{
+    width: 100px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    flex-basis: 25%;
+}
+.e{
+    background-color: azure;
+    position: relative;
+    top: 1000px;
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+h1{
+    border: solid black 1px;
+    border-radius: 3px;
+    flex-grow: 1;
+    
+}
+h2{
+    border: solid black 1px;
+    border-radius: 3px;
+    flex-grow: 3;
+    
+    
+}
